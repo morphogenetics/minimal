@@ -11,7 +11,7 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # [](#ABOUT-ME)ABOUT ME
-I studied evolutionary biology as an undergraduate at Hampshire College from 20011-2015. I am currently a graduate student In the Bioinformatics and Computational Biology program at the University of Idaho. I am a member of Kyle Harrington’s group. I am interested the genetic basis of Morphogenesis.
+I studied evolutionary biology as an undergraduate at Hampshire College from 20011-2015. I am currently a graduate student In the Bioinformatics and Computational Biology program at the University of Idaho. I am a member of the [CAPS group](http://www.capsidaho.com/). I am interested the genetic basis of Morphogenesis.
 
 ## [](#header-2)Header 2
 
