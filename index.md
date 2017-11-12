@@ -4,14 +4,14 @@ I studied evolutionary biology as an undergraduate at Hampshire College from 200
 
 
 # [](#Research)Research
-My research is centered around understanding how genetic information is translated into  morphology.
+My research is centered around understanding how genetic information is translated into morphology.
 
 Specifically, I am interested in:
 - Modeling osteocyte migration in developing mouse skulls.
   - How may noisey images be analyzed.
   - How do gene regulatory networks interact to drive the develop of mouse skulls.
 - Simulating Morphogenesis:
-  - How may cell simulation environments such as GRO be leveraged to create Gene Regulatory Networks(GRN's) with a predefined morpholog
+  - How may cell simulation environments such as GRO be leveraged to create Gene Regulatory Networks(GRN's) with a predefined morphology
 - How slime molds encode memory:
   - It has been shown that slime molds have the capacity to remember the path to an optimal food source. How is this information stored?
   - Can slime molds communicate with each other?
