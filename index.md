@@ -1,6 +1,6 @@
 
 # [](#ABOUT-ME)ABOUT ME
-I studied evolutionary biology as an undergraduate at Hampshire College from 20011-2015. I am currently a graduate student In the Bioinformatics and Computational Biology program at the University of Idaho. I am a member of the [CAPS group](http://www.capsidaho.com/). I am interested the genetic basis of Morphogenesis.
+I studied evolutionary biology as an undergraduate at Hampshire College from 20011-2015. I am currently a graduate student In the Bioinformatics and Computational Biology program at the University of Idaho. I am a member of the [CAPS group](http://www.capsidaho.com/). I am interested the genetic basis of Morphogenesis. Here is my [CV](github.com/morphogenetics/morphogenetics.github.io/cv.pdf)
 
 
 # [](#Research)Research
