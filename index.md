@@ -20,7 +20,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header 3
+### [](#Research)Research
 
 ```js
 // Javascript code with syntax highlighting.
