@@ -75,7 +75,7 @@ end
 1.  Item three
 1.  Item four
 
-### [](#Research)Research
+# [](#Research)Research
 My research is centered around understanding how genetic information is translated into  morphology.
 
 Specifically, I am interested in:
