@@ -9,7 +9,7 @@ My research is centered around understanding how genetic information is translat
 Specifically, I am interested in:
 - Modeling osteocyte migration in developing mouse skulls.
   - How may noisey images be analyzed?
-  - How do gene regulatory networks interact to drive the develop of mouse skulls?
+  - How do gene regulatory networks interact to drive the development of mouse skulls?
 - Simulating Morphogenesis:
   - How may cell simulation environments such as GRO be leveraged to create Gene Regulatory Networks(GRN's) with a predefined morphology?
 - How slime molds encode memory:
