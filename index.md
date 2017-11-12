@@ -11,7 +11,7 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # [](#ABOUT-ME)ABOUT ME
-I studied evolutionary biology as an undergraduate at Hampshire College from 20011-2015. I am currently a graduate student In the Bioinformatics and Computational Biology program at the University of Idaho. I am a member of Kyle Harrington’s group where I investigate the genetic basis of Morphogenesis.
+I studied evolutionary biology as an undergraduate at Hampshire College from 20011-2015. I am currently a graduate student In the Bioinformatics and Computational Biology program at the University of Idaho. I am a member of Kyle Harrington’s group. I am interested the genetic basis of Morphogenesis.
 
 ## [](#header-2)Header 2
 
@@ -75,18 +75,18 @@ end
 1.  Item three
 1.  Item four
 
-### Research
+### [](#Research)Research
 My research is centered around understanding how genetic information is translated into  morphology.
 
 Specifically, I am interested in:
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
+- Modeling osteocyte migration in developing mouse skulls.
+  - How may noises images be analyzed.
+  - How do gene regulatory networks interact to drive the develop of mouse skulls.
+- Simulating Morphogenesis
+  - How may cell simulation environments such as GRO be leveraged to create Gene Regulatory Networks(GRN's) with a predefined morpholog
+- How slime molds encode memory?
+  - It has been shown that slime molds have the capacity to remember the path to an optimal food source. How is this information stored?
+  - Can slime molds communicate with each other?
   - level 2 item
 - level 1 item
   - level 2 item
