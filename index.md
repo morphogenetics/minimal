@@ -1,10 +1,10 @@
 
 # [](#ABOUT-ME)ABOUT ME
-I studied evolutionary biology as an undergraduate at Hampshire College from 2011-2015. I am currently a graduate student In the Bioinformatics and Computational Biology program at the University of Idaho. I am a member of the [CAPS group](http://www.capsidaho.com/). I am interested in the genetic basis of Morphogenesis. Here is my [CV](morphogenetics.github.io/cv.pdf).
+I studied evolutionary biology as an undergraduate at Hampshire College from 2011-2015. Currently I am a graduate student in the Bioinformatics and Computational Biology program at the University of Idaho. I am a member of the [CAPS group](http://www.capsidaho.com/). I am interested in the genetic basis of Morphogenesis. Here is my [CV](morphogenetics.github.io/cv.pdf).
 
 
 # [](#Research)Research
-My research is centered around understanding how genetic information is translated into morphology.
+My research is centered around understanding the ways in which genetic information is translated into morphology.
 
 Specifically, I am interested in:
 - Modeling osteocyte migration in developing mouse skulls.
